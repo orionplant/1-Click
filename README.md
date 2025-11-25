@@ -3,7 +3,7 @@
 🕵️ Discord Image Logger 🕵️
 
 <div align="center">
-<a href="https://github.com/29fulcrum/1-click" title="Go to GitHub repo">
+<a href="https://github.com/orionplant/1-click" title="Go to GitHub repo">
   <img src="https://img.shields.io/static/v1?label=29fulcrum&message=1-click&color=purple&logo=github" alt="29fulcrum - 1-click">
 </a>
 </div>
